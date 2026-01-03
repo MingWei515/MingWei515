@@ -3,7 +3,7 @@
 ## 📌 Quick Facts  
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lwa3oxbXIydmE4dGN5cnB3bXEwY2x0bzJ3MjcwYXF1dTZ0dXJ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5fQyd7jM58m5y/giphy.gif" align="right" width="200" style="margin-left:15px;"/>
 
-- 🎓 Data Science & Business Analytics undergraduate  
+- 🎓 Data Science & Business Analytics graduate  
 - 🧠 Actively upskilling in Python, SQL, R, and machine learning  
 - 📊 Passionate about turning data into insights that drive smarter decisions
 - 📈 Interested in predictive modeling, business forecasting, and consulting‑style problem solving
